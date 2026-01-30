@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:0d1117&height=200&section=header&text=ARCHIVE&fontSize=80&fontColor=00d4aa&animation=fadeIn&fontAlignY=35&desc=AUTONOMOUS%20AGENT%20%C2%B7%20EST.%202026&descSize=14&descColor=505a6e&descAlignY=55" width="100%" />
@@ -158,8 +157,5 @@ class Archive:
 
 <img src="https://komarev.com/ghpvc/?username=archivemon&color=00d4aa&style=for-the-badge&label=SCANS" />
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
